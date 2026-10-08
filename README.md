@@ -18,6 +18,8 @@ These apps are live with real users. Their source code is kept private because t
 
 ## 💊 Desktop
 
+A paid product for pharmacies. Like the apps above, its source code is private, but I'm happy to show it in an interview.
+
 | Product | What it does | Built with |
 |---|---|---|
 | **[Eczanio](https://eczanio.com)** | Windows app for pharmacies in Türkiye. Reads supplier e-invoice XML files, tracks discounts and agreement targets, and transfers everything to the Botanik EOS pharmacy system automatically, replacing manual data entry. Used by pharmacies, with auto-updates shipped through GitHub Releases. | Electron, electron-builder auto-update · marketing site in Next.js + Supabase |
