@@ -21,6 +21,7 @@ These apps are live with real users. Their source code is kept private because t
 | Project | What it is | Built with |
 |---|---|---|
 | **[Patinax](https://patinax.com)** · [source](https://github.com/Volkerius/patinax-web) | SEO-driven watch encyclopedia with side-by-side comparisons and a "find your watch" quiz. | Next.js 16, Prisma, Supabase (PostgreSQL), Tailwind, Vercel |
+| **[Mofay](https://mofay.co)** · [source](https://github.com/Volkerius/mofay-agency-site) | Bilingual (TR/EN) website for my software agency, with a lead-capture contact form. | Next.js 15, Tailwind v4, Framer Motion, Resend |
 
 ---
 
