@@ -16,6 +16,12 @@ These apps are live with real users. Their source code is kept private because t
 | **[Airu](https://apps.apple.com/app/airu-white-noise-sleep/id6761316226)** | Sleep companion with designed soundscapes and haptic breathing guidance. | React Native, Expo Audio, Skia, SQLite, RevenueCat, haptics |
 | **[Guardiva](https://apps.apple.com/app/guardiva-spam-sms-blocker/id6759835099)** | Filters scam and spam SMS on device, without sending messages anywhere. | React Native, Expo, native iOS Message Filter extension (Swift) via a custom config plugin, multi-language |
 
+## 💊 Desktop
+
+| Product | What it does | Built with |
+|---|---|---|
+| **[Eczanio](https://eczanio.com)** | Windows app for pharmacies in Türkiye. Reads supplier e-invoice XML files, tracks discounts and agreement targets, and transfers everything to the Botanik EOS pharmacy system automatically, replacing manual data entry. Used by pharmacies, with auto-updates shipped through GitHub Releases. | Electron, electron-builder auto-update · marketing site in Next.js + Supabase |
+
 ## 🌐 Web
 
 | Project | What it is | Built with |
